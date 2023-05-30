@@ -22,7 +22,6 @@
 }
 .testimonials p{
 	display:flex;
-	font-style: italic;
 	text-align:right;
 	padding:15px 15px 5px;
 }
